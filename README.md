@@ -1,7 +1,5 @@
 
-# Investigate a Dataset 
-
-# By Rasha AL-Amoud
+# Investigate a Dataset  By Rasha AL-Amoud
 
 Data Analyst Nanodegree - Udacity
 
